@@ -1,0 +1,32 @@
+/*
+ * CSE 154 
+ * Section 5 | Exercise 2
+ * 04.24.18
+ *
+ * This page provides styling for the CSE 154 Recipe web service page. 
+ */
+body {
+  font-family: sans-serif;
+  font-size: 12pt;
+  margin: auto auto;
+  text-align: center;
+  width: 80%;
+}
+
+img {
+  height: 200px;
+}
+
+#recipe-area p {
+  font-style: italic;
+}
+
+#recipe-area ul {
+  margin: auto;
+  text-align: left;
+  width: 300px;
+}
+
+body > section {
+  margin-bottom: 20px;
+}
